@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidClass4</string>
+    <string name="frasemotivacional1">La felicidad de tu vida depende de la calidad de tus pensamientos.</string>
+    <string name="frasemotivacional2">Acepta lo que no puedes cambiar.</string>
+    <string name="frasemotivacional3">Todo lo que escuchamos es una opinión, no un hecho.</string>
+    <string name="frasemotivacional4">El alma se tiñe del color de tus pensamientos.</string>
+    <string name="frasemotivacional5">Lo que no es útil para la colmena, no es útil para la abeja.</string>
+    <string name="frasemotivacional6">No pierdas más tiempo discutiendo sobre cómo debe ser el buen hombre. Sé uno.</string>
+    <string name="frasemotivacional7">La muerte sonríe a todos; todo lo que uno puede hacer es sonreír de vuelta.</string>
+    <string name="frasemotivacional8">Elimina la distracción.</string>
+    <string name="frasemotivacional9">La mejor venganza es no ser como tu enemigo.</string>
+    <string name="frasemotivacional10">Tú tienes poder sobre tu mente, no sobre los acontecimientos.</string>
+</resources>
